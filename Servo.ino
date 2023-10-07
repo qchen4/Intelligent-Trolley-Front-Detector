@@ -16,6 +16,4 @@ increasing 1° each time.
 decrease by 1° each time.
 14. myservo.write(pos); // Write the angle to the servo. 15. delay(15); // Write the angle to the servo.
 15. delay(15); // Delay 15ms for the servo to turn to the specified position.
-16.
 
-Translated with www.DeepL.com/Translator (free version)
