@@ -5,3 +5,6 @@ Enhanced Front-Mounted Sensor Module for Intelligent Trolley: Capable of Detecti
 ## required compoents:
 * 1× DFduino UNO R3
 * 1× Micro Servo 9g
+
+-----
+currently working on this project
